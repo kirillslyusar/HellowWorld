@@ -32,11 +32,10 @@
                             <constraint firstItem="Ply-HW-2j5" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="5IH-Io-A7E"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="Ply-HW-2j5" secondAttribute="trailing" constant="20" id="Abp-MI-wfX"/>
                             <constraint firstItem="Ply-HW-2j5" firstAttribute="height" secondItem="qgt-Eb-eNB" secondAttribute="height" id="DVg-T5-Xxa"/>
-                            <constraint firstAttribute="bottom" secondItem="qgt-Eb-eNB" secondAttribute="bottom" constant="452" id="KcA-pb-0Lz"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="qgt-Eb-eNB" secondAttribute="trailing" constant="20" id="Pca-IC-shm"/>
                             <constraint firstItem="Ply-HW-2j5" firstAttribute="top" secondItem="qgt-Eb-eNB" secondAttribute="bottom" constant="8" id="X78-g3-KaD"/>
-                            <constraint firstItem="qgt-Eb-eNB" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" constant="34" id="ZMT-jg-rih"/>
-                            <constraint firstItem="Ply-HW-2j5" firstAttribute="bottom" secondItem="Ze5-6b-2t3" secondAttribute="bottom" constant="-34" id="gzv-d5-7Ca"/>
+                            <constraint firstItem="qgt-Eb-eNB" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="34" id="ZMT-jg-rih"/>
+                            <constraint firstItem="Ply-HW-2j5" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" constant="-34" id="gzv-d5-7Ca"/>
                         </constraints>
                     </view>
                 </viewController>
